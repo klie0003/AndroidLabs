@@ -2,4 +2,13 @@
     <string name="app_name">Lab1</string>
     <string name="hello_message">Bonjour terre!</string>
     <string name="ButtonText">J\’ai un button</string>
+    <string name="GUIText">Regarde mon GUI</string>
+    <string name="ClickButtonText">CLIQUEZ ICI</string>
+    <string name="CheckBox">Regarde ça!</string>
+    <string name="SwitchButton">Allumer / éteindre</string>
+    <string name="InputHint">écrivez ici</string>
+    <string name="toast_message">Voici plus d\'informations</string>
+    <string name="snackbar_on">L\'interrupteur est allumé</string>
+    <string name="snackbar_off">L\'interrupteur est éteint</string>
+    <string na</resources>me="undo_message">Annuler</string>
 </resources>
