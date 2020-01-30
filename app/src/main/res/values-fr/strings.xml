@@ -10,5 +10,5 @@
     <string name="toast_message">Voici plus d\'informations</string>
     <string name="snackbar_on">L\'interrupteur est allumé</string>
     <string name="snackbar_off">L\'interrupteur est éteint</string>
-    <string na</resources>me="undo_message">Annuler</string>
+    <string name="undo_message">Annuler</string>
 </resources>
