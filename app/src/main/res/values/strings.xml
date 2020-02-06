@@ -11,4 +11,14 @@
     <string name="snackbar_on">The switch is on</string>
     <string name="snackbar_off">The switch is off</string>
     <string name="undo_message">Undo</string>
+
+    <string name="enter_address">Enter your email address:</string>
+    <string name="input_address">Type email here</string>
+    <string name="enter_password">Type your password:</string>
+    <string name="login_button">LOGIN</string>
+    <string name="profile">Your profile</string>
+    <string name="address">Your email</string>
+    <string name="password">Your password</string>
+    <string name="picture">Your picture</string>
+    <string name="click_message">Click the above to take a picture</string>
 </resources>

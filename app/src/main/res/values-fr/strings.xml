@@ -11,4 +11,15 @@
     <string name="snackbar_on">L\'interrupteur est allumé</string>
     <string name="snackbar_off">L\'interrupteur est éteint</string>
     <string name="undo_message">Annuler</string>
+
+    <string name="enter_address">Entrez votre adresse email:</string>
+    <string name="input_address">Tapez votre email ici</string>
+    <string name="enter_password">Tapez votre mot de passe:</string>
+    <string name="login_button">S\'IDENTIFIER</string>
+
+    <string name="profile">Votre profil</string>
+    <string name="address">Votre email</string>
+    <string name="password">Votre mot de passe</string>
+    <string name="picture">Ta photo</string>
+    <string name="click_message">Cliquez dessus pour prendre une photo</string>
 </resources>
